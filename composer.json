@@ -1,5 +1,5 @@
 {
-    "name": "1coinio/bitpay-sdk",
+    "name": "1coin/bitpay-sdk",
     "description": "Light version of the PHP library for the new cryptographically secure BitPay API",
     "license": "MIT",
     "minimum-stability": "stable",
